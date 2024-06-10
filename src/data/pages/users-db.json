@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Patrik Radkow",
+    "branchId": "magicpan@example.gg",
+    "parentAddress": "magicpan",
+    "parentChild": "user",
+    "parentHp": "asdasd",
+    "parentCredit": 0,
+    "parentName": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "2 Patrik Radkow",
+    "branchId": "magicpan@example.gg",
+    "parentAddress": "magicpan",
+    "parentChild": "user",
+    "parentHp": "asdasd",
+    "parentCredit": 0,
+    "parentName": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "role": "admin"
+  }
+]
